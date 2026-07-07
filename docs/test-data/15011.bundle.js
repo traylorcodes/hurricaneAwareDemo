@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhurricane_aware=self.webpackChunkhurricane_aware||[]).push([[15011],{15011(e,s,r){r.r(s),r.d(s,{default:()=>i});var a=r(31635),t=r(69636),u=r(78300),c=r(76084);class l extends c.A{constructor(){super(...arguments),this.layer=null}}let n=class extends((0,u.C)(l)){};n=(0,a.Cg)([(0,t.$K)("esri.views.2d.layers.ParquetLayerView2D")],n);const i=n}}]);
