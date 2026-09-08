@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhurricane_aware=self.webpackChunkhurricane_aware||[]).push([[53342],{53342(e,r,t){t.r(r),t.d(r,{execute:()=>u});var n=t(92659),a=t(17586);const c=new n.x;function u(e,r){const t=(0,a.fromGeometry)(e);return c.execute(t.getGeometry(),(0,a.fromGeometryToGXGeometry)(r),t.getSpatialReference(),null)}}}]);
