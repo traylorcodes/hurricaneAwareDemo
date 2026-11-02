@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhurricane_aware=self.webpackChunkhurricane_aware||[]).push([[94602],{94602(a,e,r){r.r(e);var c=r(80937);const s=["#2888B8","#EB7028","#48A375","#9370B1","#e55035","#3d9ccc","#DC7B04","#b87bb0","#3fa681","#EE6386"].map(a=>(0,c.yW)(a));r.d(e,["esriChartColorSet",0,s])}}]);
